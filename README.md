@@ -10,4 +10,7 @@ I started (work) life as a high school science teacher but have been in the IT f
 - Home automation
 - Photography
 
-| ![Generative art example #1](https://github.com/kristinjeanna/kristinjeanna/blob/main/images/quaris-sample.png?raw=true)  |  ![Generative art example #2](https://github.com/kristinjeanna/kristinjeanna/blob/main/images/ixnea-sample.png?raw=true) |
+<p float="left">
+  <img src="[/img1.png](https://github.com/kristinjeanna/kristinjeanna/blob/main/images/quaris-sample.png?raw=true)" width="50%" />
+  <img src="/https://github.com/kristinjeanna/kristinjeanna/blob/main/images/ixnea-sample.png?raw=true" width="50%" />
+</p>
