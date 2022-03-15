@@ -11,6 +11,6 @@ I started (work) life as a high school science teacher but have been in the IT f
 - Photography
 
 <p float="left">
-  <img src="[/img1.png](https://github.com/kristinjeanna/kristinjeanna/blob/main/images/quaris-sample.png?raw=true)" width="50%" />
-  <img src="/https://github.com/kristinjeanna/kristinjeanna/blob/main/images/ixnea-sample.png?raw=true" width="50%" />
+  <img src="https://github.com/kristinjeanna/kristinjeanna/blob/main/images/quaris-sample.png?raw=true" width="50%" />
+  <img src="https://github.com/kristinjeanna/kristinjeanna/blob/main/images/ixnea-sample.png?raw=true" width="50%" />
 </p>
