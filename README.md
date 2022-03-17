@@ -1,6 +1,8 @@
-### About me
+## Kristin J. Lennert (@kristinjeanna)
 
   <img align="right" alt="Generative art sample #1" src="https://github.com/kristinjeanna/kristinjeanna/blob/main/images/ixnea-sample.png?raw=true" width="250px" />
+
+### About me
 
 Hey! I'm Kristin. I work at a Chicago-area university as Java developer and an applications administrator. My work development is all Java but I dabble in Go for personal projects.
 
